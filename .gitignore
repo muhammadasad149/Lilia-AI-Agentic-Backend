@@ -1,0 +1,5 @@
+.env
+uploads/
+model/
+__pycache__/
+lilia_ai.db
