@@ -68,6 +68,8 @@ Main orchestrator that coordinates the entire 11-stage analysis pipeline:
 - **Classification Model** (`classification_model.h5`, `classification_model.tflite`): Convolutional neural network for aneurysm detection
 - **Segmentation Model** (`segmentation_model.h5`): U-Net architecture for precise segmentation
 
+**📥 Model Download**: Download the pre-trained models from [Google Drive](https://drive.google.com/drive/folders/1H9LMq8HgVmcEqh9rj44RuCVA6DvCkPpt?usp=sharing)
+
 ## 📋 Prerequisites
 
 - Python 3.11+
