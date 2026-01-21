@@ -268,20 +268,9 @@ Main orchestrator that coordinates the entire 11-stage analysis pipeline:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## ⚠️ Disclaimer
 
 This software is for research and development purposes. It is not intended for clinical use without proper validation, regulatory approval, and medical supervision. Always consult with qualified healthcare professionals for medical decisions.
-
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Contact the development team
-- Check the API documentation at `/docs`
 
 ---
 
